@@ -1,3 +1,4 @@
 # yaraplus
 
-使用方法 ```.\yara64.exe .\Windows_Trojan_CobaltStrike.yar  999999```
+批量扫描内存方法 
+```.\yara64.exe .\Windows_Trojan_CobaltStrike.yar  999999```
