@@ -1,0 +1,3 @@
+﻿  yara.c
+C:\Users\endlessparadox\Desktop\4mon\yara-4.5.0\yara-4.5.0\cli\yara.c(1826,34): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+  yara.vcxproj -> C:\Users\endlessparadox\Desktop\4mon\yara-4.5.0\yara-4.5.0\windows\vs2019\Debug\yara64.exe

@@ -1,0 +1,3 @@
+﻿ws2_32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 crypt32.lib(CRYPT32.dll) 中定义；已忽略第二个定义
+advapi32.lib(ADVAPI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 crypt32.lib(CRYPT32.dll) 中定义；已忽略第二个定义
+  libyara.vcxproj -> C:\Users\endlessparadox\Desktop\4mon\yara-4.5.0\yara-4.5.0\windows\vs2019\libyara\Debug\libyara64.lib

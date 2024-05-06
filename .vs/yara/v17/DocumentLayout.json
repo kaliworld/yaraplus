@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\endlessparadox\\Desktop\\4mon\\yara-4.5.0\\yara-4.5.0\\windows\\vs2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8232C7-D8C1-4D05-9921-F8F504134410}|yara\\yara.vcxproj|C:\\Users\\endlessparadox\\Desktop\\4mon\\yara-4.5.0\\yara-4.5.0\\cli\\yara.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "yara.c",
+              "DocumentMoniker": "C:\\Users\\endlessparadox\\Desktop\\4mon\\yara-4.5.0\\yara-4.5.0\\cli\\yara.c",
+              "RelativeDocumentMoniker": "..\\..\\cli\\yara.c",
+              "ToolTip": "C:\\Users\\endlessparadox\\Desktop\\4mon\\yara-4.5.0\\yara-4.5.0\\cli\\yara.c",
+              "RelativeToolTip": "..\\..\\cli\\yara.c",
+              "ViewState": "AQIAANAGAAAAAAAAAAAwwAsHAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T14:32:59.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

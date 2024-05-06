@@ -1,0 +1,8 @@
+﻿  yara.c
+C:\Users\endlessparadox\Desktop\4mon\yara-4.5.0\yara-4.5.0\cli\yara.c(1827,34): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+  正在生成代码
+  11 of 60 functions (18.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  yara.vcxproj -> C:\Users\endlessparadox\Desktop\4mon\yara-4.5.0\yara-4.5.0\windows\vs2019\Release\yara64.exe
